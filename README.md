@@ -1,3 +1,3 @@
 # This is my local repository
 <br>
-local repository
+Demo local repository
